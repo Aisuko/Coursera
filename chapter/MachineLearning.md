@@ -20,22 +20,25 @@ AI
 
 邮件分类、有无糖尿病、良性恶性肿瘤
 
+* 线性回归模型
+ * 需要选择参数来和函数进行匹配
 
-* hypothesis函数 hθ(x)=θ0+θ1*x 线性函数
+* 单变量线性回归 
+* 线性回归函数
+ * (x,y)代表训练集
+ * M代表训练集样本数  
+ * hypothesis函数 hθ(x)=θ1*x 线性函数(是假设)
+ * x(i),y(i)表示在 i上的样本x与y
+ * 在线性回归中，我们需要解决最小化问题(hθ(x)-y)平方
+ * 对i=1到i=m的样本进行求和
+ * 也就是预测值与实际值差的平方的和
+ * 简单来说就是求求和值的1/2m
+ * minisize
+ * 代价函数(J(θ1))，又叫做平方误差函数 ：解决回归问题 [公式](https://www.coursera.org/learn/machine-learning/supplement/nhzyF/cost-function) 多用来解决回归问题
+ * 根据假设函数hθ(x) 推导线性回归目标函数J(θ1)的值 minimize = J(θ)
+ * 
 
 size of house > h > Estimated price  
-线性回归模型
-* 在线性回归中，我们需要解决最小化问题
-   需要选择参数来和函数进行匹配
-
-单变量线性回归  
-
->2017-3-25
-
-代价函数，又叫做平方误差函数 ：解决回归问题
-[公式](https://www.coursera.org/learn/machine-learning/supplement/nhzyF/cost-function)
-
-
 
 
 ## 无监督学习（判断数据集中的包含的聚类，数据集没有明显的特征分别）没有给算法正确答案
