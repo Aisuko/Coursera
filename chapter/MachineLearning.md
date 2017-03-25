@@ -25,7 +25,16 @@ AI
 
 size of house > h > Estimated price  
 线性回归模型
-单变量线性回归
+* 在线性回归中，我们需要解决最小化问题
+   需要选择参数来和函数进行匹配
+
+单变量线性回归  
+
+>2017-3-25
+
+代价函数，又叫做平方误差函数 ：解决回归问题
+[公式](https://www.coursera.org/learn/machine-learning/supplement/nhzyF/cost-function)
+
 
 
 
@@ -40,3 +49,4 @@ size of house > h > Estimated price
 ## 编程环境
 
 Octave
+
