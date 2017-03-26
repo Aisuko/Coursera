@@ -42,6 +42,10 @@ AI
 * 参数学习
  * `梯度下降算法`：可以使代价函数J最小化
 
+* 矩阵 维度使用row and columns 表示
+
+* 向量 columns == 1 的矩阵
+
 * size of house > h > Estimated price
 
 
