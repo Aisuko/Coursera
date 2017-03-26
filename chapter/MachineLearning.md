@@ -41,7 +41,6 @@ AI
 
 * 参数学习
  * `梯度下降算法`：可以使代价函数J最小化
- 
 
 * size of house > h > Estimated price
 
