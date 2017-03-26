@@ -36,9 +36,14 @@ AI
  * minisize
  * 代价函数(J(θ1))，又叫做平方误差函数 ：解决回归问题 [公式](https://www.coursera.org/learn/machine-learning/supplement/nhzyF/cost-function) 多用来解决回归问题
  * 根据假设函数hθ(x) 推导线性回归目标函数J(θ1)的值 minimize = J(θ)
- * 
 
-size of house > h > Estimated price  
+* 轮廓图
+
+* 参数学习
+ * `梯度下降算法`：可以使代价函数J最小化
+ 
+
+* size of house > h > Estimated price
 
 
 ## 无监督学习（判断数据集中的包含的聚类，数据集没有明显的特征分别）没有给算法正确答案
