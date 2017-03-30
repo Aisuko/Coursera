@@ -1,9 +1,7 @@
-# 机器学习问题
+# Have a lot of fun learning about machine learning. 
 
-> 2017-3-20 
-AI  
-算法和数学  
-在复杂的现实场景中，编程只能让机器来完成一些基础工作，例如A到B的最短距离。但是在大多数情况下，我们并不知道如何显示地编写人工智能程序  
+[week1](Machine_learning/week1/week1.md)
+
 
 ## 监督学习 （回归问题属于监督的一种）
 训练集
