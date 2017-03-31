@@ -15,7 +15,7 @@ J = 0;
 
 
 h = X*theta; % predictions function
-s = (h-y)^2;
+s = (h-y).^2;
 J = 1/(2*m)* sum(s);
 
 
