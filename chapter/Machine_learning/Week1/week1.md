@@ -23,6 +23,7 @@ Model and Cost Function
   * This function is otherwise called the "Squared error function", or "Mean squared error"
   * i表示数据x在训练集中的位置
   * 1/2m m表示训练集个数，此项为了减小误差
+  * Thus as a goal, we should try to minimize the cost function. In this case, θ1=1 is our global minimum.
 
 
 
