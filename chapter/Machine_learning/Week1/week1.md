@@ -25,13 +25,25 @@ Model and Cost Function
   * 1/2m m表示训练集个数，此项为了减小误差
   * Thus as a goal, we should try to minimize the cost function. In this case, θ1=1 is our global minimum.
 
-
-
-## Linear Regression with One Variable
-
-
 ## Parameter Learning
 
 * Gradient Descent
+  * Gradient descent algorithm
+  * repeat untill convergence
+  * correct slimultaneous update
+  * learning rate
+* Gradient descent algorithm Intuition
+  * 导数项代表cost function的函数斜率
+    * 当函数斜率为正的时候，theta减小，达到cost function最小值
+    * 当函数斜率为负的时候，theta增加，达到cost function最小值
+    * 斜率等于0，导数值最小
+    * 学习速率：更新theta0与theta1的速率
+      * 过大导致函数无法收敛
+      * 太小导致收敛速度太慢
+    * 初始值与最优点相等，theta1将不在改变
+
 * Gradient Descent For Linear Regression
+
+
+## Linear Regression with One Variable
 
