@@ -43,7 +43,16 @@ Model and Cost Function
     * 初始值与最优点相等，theta1将不在改变
 
 * Gradient Descent For Linear Regression
+  * 微分项等于Cost Function 函数
+  * 梯度下降可以获取局部最优解
 
+## Linear Algebra Review
+
+* Matrices and Vectors
+* Addition and Scalar Multiplication(标量乘法)
+  * 不同维度的矩阵不能进行相加
+* Matrix Vector Multiplication
+  * 4x2 * 2x1 结果为4x1的向量
 
 ## Linear Regression with One Variable
 
