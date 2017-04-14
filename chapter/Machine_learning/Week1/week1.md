@@ -13,6 +13,8 @@ Unsupervised learning
   * 无监督学习中，(聚类算法)把数据集分成多个不同的聚类，事先我们并不知道哪些类型，因为对于这些数据样本来说，我们没有给算法一个正确答案，这就是无监督学习
   * 应用于组织大型计算机集群、社交网络的分析
 
+# Linear Regression with one Variable 
+
 Model and Cost Function
 * Model Representation 
   * The function h is called a hypothesis
@@ -53,6 +55,3 @@ Model and Cost Function
   * 不同维度的矩阵不能进行相加
 * Matrix Vector Multiplication
   * 4x2 * 2x1 结果为4x1的向量
-
-## Linear Regression with One Variable
-
