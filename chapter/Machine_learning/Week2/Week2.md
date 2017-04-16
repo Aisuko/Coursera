@@ -20,4 +20,11 @@
 
 ### Gradient descent (learning rate theta)
 * How to choose learning rate
-  * 
+* To summarize:
+  * if lr(learning reate) is too small: slow convergence
+  * if lr is too large: may not decrease on every iteration anf thus may not converge
+
+### Features and ploynomial regression(使用线性方法来拟合多项式回归）
+* Polynomial Regression
+* Chioce of features
+  * 使用特征缩放，缩放所有特性到相近范围内
