@@ -28,3 +28,11 @@
 * Polynomial Regression
 * Chioce of features
   * 使用特征缩放，缩放所有特性到相近范围内
+
+# Computing Parameters Analytically
+
+## Normal Equation
+* In the "Normal Equation" method, we will minimize J by explicitly taking its derivatives with respect to the θj ’s, and setting them to zero. This allows us to find the optimum theta without iteration
+* There is no need to do feature scaling with the normal equation
+
+## Normal Equation Noninvertibility
