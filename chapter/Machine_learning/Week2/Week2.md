@@ -34,5 +34,6 @@
 ## Normal Equation
 * In the "Normal Equation" method, we will minimize J by explicitly taking its derivatives with respect to the θj ’s, and setting them to zero. This allows us to find the optimum theta without iteration
 * There is no need to do feature scaling with the normal equation
+* 在微积分中，对函数求导，并且将导数置于0，是获取最小值的方法
 
 ## Normal Equation Noninvertibility
