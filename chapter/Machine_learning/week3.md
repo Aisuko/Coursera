@@ -16,3 +16,8 @@
 
 ## Non-linear decision boundaries
 * 多项式回归，特征变量，得到复杂的决策边界
+
+# Logistic Regression Model
+
+## Cost Function
+* 分y=0和y=1两种情况
