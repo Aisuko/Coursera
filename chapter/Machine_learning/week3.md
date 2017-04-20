@@ -21,3 +21,16 @@
 
 ## Cost Function
 * 分y=0和y=1两种情况
+
+## Simplified Cost Function and Gradient Descent
+
+* 将cost function的两种情况压缩在一起，形成一个公式
+* Gradient Descent
+  * 最后对函数进行矢量化
+
+# Multiclass Classification:One-vs-all
+* We are basically choosing one class and then lumping all the others into a single second class. We do this repeatedly, applying binary logistic regression to each case, and then use the hypothesis that returned the highest value as our prediction
+* To summarize:
+  * Train a logistic regression classifier  function for each class to predict the probability that y = i
+  * To make a predictioin on a new x, pick the class that hypothesis function
+
