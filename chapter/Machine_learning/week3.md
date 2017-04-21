@@ -34,3 +34,7 @@
   * Train a logistic regression classifier  function for each class to predict the probability that y = i
   * To make a predictioin on a new x, pick the class that hypothesis function
 
+The problem of overfiting
+* 解决办法
+  * 减少选取变量的数量（使用模型算法，算法是为了自动选择，采用哪些特征变量）
+  * 正则化
