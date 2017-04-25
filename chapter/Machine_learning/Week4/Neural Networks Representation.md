@@ -18,3 +18,11 @@
 
 * Model Representation Two
   * 计算隐藏层的激励值
+
+# Applications
+
+## Examples and Intuitions
+* 神经网络单个神经元在计算AND 和 OR 逻辑运算发挥作用
+* And function
+* Or function
+
