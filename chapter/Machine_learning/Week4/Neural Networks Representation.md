@@ -7,3 +7,14 @@
 
 ## Neurons and the Brain
 * 现代机器学习最有效的算法
+
+# Neural Networks
+* Model Representation One
+  * 怎么表现神经网络
+  * Neural Model
+    * Logistic unit
+    * 非输入输出层都叫做隐藏层
+  * Other network archiitectures
+
+* Model Representation Two
+  * 计算隐藏层的激励值
