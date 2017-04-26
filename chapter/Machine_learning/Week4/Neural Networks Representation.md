@@ -15,6 +15,12 @@
     * Logistic unit
     * 非输入输出层都叫做隐藏层
   * Other network archiitectures
+* 人工增加的x0=1,被称作偏置单位，偏置神经元
+* 关于神经网络的术语
+  * 一个神经元，一个有S型函数或者逻辑函数作为激励函数的人工神经元
+  * 激励函数/逻辑激励函数只是对类似非线性函数g(z)的另外一种术语称呼，theta为模型参数或者叫模型权重
+  * 激励是指由一个具体神经元读入计算并输出的值
+  * 被矩阵化的theta上标(j)将成为一个波矩阵，控制着从本层到下各层的作用
 
 * Model Representation Two
   * 计算隐藏层的激励值
@@ -26,3 +32,5 @@
 * And function
 * Or function
 
+## Neural Network can compute complex non linear hypothesis
+* 
