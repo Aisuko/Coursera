@@ -24,6 +24,9 @@
 
 * Model Representation Two
   * 计算隐藏层的激励值
+  * n维度矩阵/向量的表达方式R
+  * 矩阵/向量运算（矩阵向量乘法）表示符号
+  * 前向传播
 
 # Applications
 
