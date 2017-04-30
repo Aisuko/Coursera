@@ -1,0 +1,6 @@
+# Cost Function and Backpropagation
+
+## Cost function in Neural Network
+* 公式
+
+## Backpropagation Algorithm
