@@ -11,6 +11,8 @@
 # Neural Networks
 * Model Representation One
   * 怎么表现神经网络
+  * 激励函数表示为g(z)
+  * Example: layer 1 has 2 input nodes and layer 2 has 4 activation nodes. Dimension of Θ(1) is going to be 4×3 where sj=2 and sj+1=4, so sj+1×(sj+1)=4×3
   * Neural Model
     * Logistic unit
     * 非输入输出层都叫做隐藏层
