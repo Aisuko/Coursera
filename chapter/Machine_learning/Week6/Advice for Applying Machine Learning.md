@@ -27,3 +27,13 @@
 * High variance
   * 在算法处于高方差的情况下，增加训练样本的数量，会使交叉验证误差集曲线下降，证明对算法误差有用
 
+## Debugging learning algorithm
+
+> Suppose you have implemented regularized linear regression to predict housing prices. However, when you test your hypothesis in a new set of houses, you find that it makes unaccrptably large errors in its prediction. what should you try next?
+
+* Get more training examples - fix high variance
+* Try smaller sets of features - fix high variance
+* Try getting additional features - fix high bias
+* Try adding polynomial features () - fix high bias
+* Try decreasing λ  - fiexs high bias
+* Try increasing λ  - fiexs high variance
