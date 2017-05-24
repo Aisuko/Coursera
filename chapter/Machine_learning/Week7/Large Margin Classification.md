@@ -1,6 +1,10 @@
-# Optimization Objective
+## Optimization Objective
 
-# Large Margin Intuition
+## Large Margin Intuition
 
 * 理解SVM模型的假设
 * 向量机被看作是最大间距分类器，对分类问题进行分类，得出决策边界
+
+## 向量内积
+
+* 在内积计算中，如果u和v之间的夹角小于90度，那么那条红线的长度p是正值， 如果这个夹角大于90度，则p将回事负的，就是这个小线段的长度是负的， 因此两个向量之间的内积，也是负的。 如果它们之间的夹角大于90度，这就是关于向量内积的知识。
