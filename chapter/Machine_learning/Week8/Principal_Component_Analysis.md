@@ -13,3 +13,5 @@
 * 数据降维，找到一条直线，将数据点投影到直线上
 * PCA公式是计算数据投影到直线上距离（投影误差）平方和达到最小（低维面）
 * PCA不是线性回归
+
+## Reconstraction from compressed representation(将压缩数据还原回压缩之前的数据)
