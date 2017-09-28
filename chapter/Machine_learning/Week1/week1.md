@@ -31,7 +31,7 @@ Model and Cost Function
 
 ## Parameter Learning
 
-* Gradient Descent
+* Gradient Descent（找出代价函数最小化的算法）
   * Gradient descent algorithm
   * repeat untill convergence
   * correct slimultaneous update
