@@ -6,6 +6,7 @@
 Supervised learning
 * Supervised learning refers to the fact that we gave the algorithm a data set in which the "right answers" were given.(对训练集中的每个数据都有正确答案)
   * Regression problems belongs to supervised learning(回归问题指：预测一个连续值的输出)
+  * 支持向量机的算法：可以让电脑处理无限多的特征
   * Classification problems
 
 Unsupervised learning
