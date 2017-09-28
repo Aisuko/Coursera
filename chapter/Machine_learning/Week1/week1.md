@@ -18,14 +18,15 @@ Unsupervised learning
 
 Model and Cost Function
 * Model Representation 
-  * The function h is called a hypothesis
+  * The function h is called a hypothesis(假设目标模型 hθ(x)=θ0+θ1*x )
   * When the target variable that we're trying to predict continuous, such as in housing example, we call the learning problem a `regression` problem
   * when y can take on only a small number of discrete values(such as if ,given the living area,we wanted to predict if a dweling is a house or an apartment, say), we call it a `classfication` problem
 * Cost Function
   * We can measure the accuracy of our hypothesis function by using a `cost function`
+  * 选择 θ0与θ1的值使假设函数更接近y，最小化方差部分（J(θ0,θ1)=1/2m * ∑ i=1 (hθ(xi)−yi)^2），使得假设函数更加拟合线性函数y
   * This function is otherwise called the "Squared error function", or "Mean squared error"
   * i表示数据x在训练集中的位置
-  * 1/2m m表示训练集个数，此项为了减小误差
+  * 1/2m m表示训练集个数，此项为了减小平均误差
   * Thus as a goal, we should try to minimize the cost function. In this case, θ1=1 is our global minimum.
 
 ## Parameter Learning
